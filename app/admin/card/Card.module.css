@@ -1,0 +1,16 @@
+
+.h1{
+    font-size: 2rem;
+    color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+.wrapper{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.p{
+    font-size: 1rem;
+}
